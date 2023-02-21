@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "title": "Watch",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStUYfYJ5KeIRHkwLovBlkZLKbeEFfgMBQi3w&usqp=CAU",
+      "desc": "Adfdsggaew dsfg ",
+      "price": "1500",
+      "id": 1
+    },
+    {
+      "title": "AirProds",
+      "image": "https://lh3.googleusercontent.com/uY0DBQik6UA-8r3u940KST-4No0y-XK9SdLkA8cirg9XMg5hw43uvY04aMt_suipYETIU-g7GYZ12T1nUvefZBSpugr9xlvkvVb9L6p5EibJwYIX2A",
+      "desc": "Afddgfhju retyu",
+      "price": "2600",
+      "id": 2
+    }
+  ]
+}

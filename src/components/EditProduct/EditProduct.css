@@ -1,0 +1,15 @@
+#edit {
+       display: flex;
+       flex-direction: column;
+       flex-wrap: wrap;
+       margin: 2% auto;
+       justify-content: center;
+       align-items: center;
+}
+
+#btn-edit {
+       display: flex;
+       margin: 2% auto;
+       justify-content: center;
+       width: 15%;
+}
